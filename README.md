@@ -1,9 +1,9 @@
-## Olá!! Eu sou a Gabriele Figueiredo(./github_dark/README.md)
+## Olá!! Eu sou a Gabriele Figueiredo
 
 <div>
   <a href="https://github.com/gabrielebf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielebf&count_private=true&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielebf&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielebf&count_private=true&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielebf&layout=compact&theme=github_dark"/>
 </div>
   
 [![](https://raw.githubusercontent.com/gabrielebf/gabrielebf/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
